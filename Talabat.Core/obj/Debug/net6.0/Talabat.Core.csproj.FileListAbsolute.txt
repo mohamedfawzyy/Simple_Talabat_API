@@ -9,3 +9,4 @@ D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\09 ASP.NET Core W
 D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\09 ASP.NET Core Web APIs\SimpleTalabat\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
 D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\09 ASP.NET Core Web APIs\SimpleTalabat\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
 D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\09 ASP.NET Core Web APIs\SimpleTalabat\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\09 ASP.NET Core Web APIs\SimpleTalabat\Talabat.Core\obj\Debug\net6.0\Talabat.Core.sourcelink.json

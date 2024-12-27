@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using SimpleTalabat.Helpers;
 using Talabat.Core.Repositories.Contract;
 using Talabat.Repository;
 using Talabat.Repository.Data;
@@ -21,7 +22,10 @@ namespace SimpleTalabat
                     builder.Services.AddDbContext<StoreContext>(
                     options => options.UseSqlServer(builder.Configuration.GetConnectionString("Default_Connection")));
                     //allow Dependancy injection for GenericRepository any Type of IGeneric return GenericRepository
-                    builder.Services.AddScoped(typeof(IGenericRepository<>),typeof(GenericRepository<>)); 
+                    builder.Services.AddScoped(typeof(IGenericRepository<>),typeof(GenericRepository<>));
+                     //allow dependancy injection for Automapper 
+                    builder.Services.AddAutoMapper(M=>M.AddProfile(new MappingProfiles()));
+                    //builder.Services.AddAutoMapper(typeof(MappingProfiles)); another way to allow dependancy injection for AutoMapper
             #endregion
 
 

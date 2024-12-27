@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "z0feC9u2JrH94FB91R5f+XFQU+hvijy+ycCVKqdTYvpd5yZ7D5v+AJJZuLPyLbCpb/e8OMTNdWTNKebvvXejnQ==",
+  "dgSpecHash": "ZPUZmGWHSKBnbY4EeeLoz+6ia30u+zgq2q7+tyxZP2UYghGxnJx5fmKTOhS4G4fQdmL2yHNF9DXTGs2OSN97Gw==",
   "success": true,
   "projectFilePath": "D:\\engineering terms\\front-end-engineer\\Route\\C41 RouteBackend\\09 ASP.NET Core Web APIs\\SimpleTalabat\\SimpleTalabat\\SimpleTalabat.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mohamed fawzy\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\mohamed fawzy\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\mohamed fawzy\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\mohamed fawzy\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\mohamed fawzy\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\mohamed fawzy\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.7\\microsoft.data.sqlclient.2.1.7.nupkg.sha512",
     "C:\\Users\\mohamed fawzy\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\mohamed fawzy\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.36\\microsoft.entityframeworkcore.6.0.36.nupkg.sha512",

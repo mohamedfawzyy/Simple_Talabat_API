@@ -78,3 +78,6 @@ D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\09 ASP.NET Core W
 D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\09 ASP.NET Core Web APIs\SimpleTalabat\SimpleTalabat\bin\Debug\net6.0\Talabat.Repository.dll
 D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\09 ASP.NET Core Web APIs\SimpleTalabat\SimpleTalabat\bin\Debug\net6.0\Talabat.Repository.pdb
 D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\09 ASP.NET Core Web APIs\SimpleTalabat\SimpleTalabat\bin\Debug\net6.0\Talabat.Core.pdb
+D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\09 ASP.NET Core Web APIs\SimpleTalabat\SimpleTalabat\obj\Debug\net6.0\SimpleTalabat.sourcelink.json
+D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\09 ASP.NET Core Web APIs\SimpleTalabat\SimpleTalabat\bin\Debug\net6.0\AutoMapper.dll
+D:\engineering terms\front-end-engineer\Route\C41 RouteBackend\09 ASP.NET Core Web APIs\SimpleTalabat\SimpleTalabat\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
